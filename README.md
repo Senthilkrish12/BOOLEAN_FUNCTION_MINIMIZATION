@@ -1,4 +1,9 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+### NAME : Senthil Raj G
+
+### REG NO : 212224100054
+
+### EXPERIMENT 2 : IMPLEMENTATION OF BOOLEAN_FUNCTION_MINIMIZATION**
+
 
 **AIM:**
 
@@ -14,11 +19,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
-**Procedure**
+**PROCEDURE**
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +32,26 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![WhatsApp Image 2024-11-21 at 10 38 49_31d02bdc](https://github.com/user-attachments/assets/6335030a-aa19-493c-aa7c-caa2f9d18bc4)
 
-Developed by: RegisterNumber:*/
+**TRUTH TABLE**
 
 
-**RTL realization**
+![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65)
 
-**Output:**
+![WhatsApp Image 2024-11-21 at 11 34 59_05329a2a](https://github.com/user-attachments/assets/e7443311-e06d-405a-9194-a60e492f0585)
 
-**RTL**
 
-**Timing Diagram**
+**RTL REALIZATION**
 
-**Result:**
+![WhatsApp Image 2024-11-21 at 10 39 01_59a4773c](https://github.com/user-attachments/assets/d2fe1b17-ec84-43fa-b3be-3e47c39543f7)
+
+
+**TIMING DIAGRAM**
+![WhatsApp Image 2024-11-21 at 10 38 35_6f76205c](https://github.com/user-attachments/assets/77517132-8223-49b6-bad0-8941a4c7875a)
+
+**RESULT**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
