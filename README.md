@@ -81,7 +81,8 @@ module kishore(a,b,c,d,w,x,y,z,f1,f2);
 
 **Timing Diagram**
 
-![Screenshot 2025-04-15 201732](https://github.com/user-attachments/assets/2022a63a-22c4-4d06-a1a1-15e7bf9f0272)
+![image](https://github.com/user-attachments/assets/96b875e2-5918-4afc-9220-99626d3e1f4b)
+
 
 **Result:**
 
