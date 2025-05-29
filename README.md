@@ -1,3 +1,7 @@
+Developed by: SENTHIL RAJ G
+
+RegisterNumber: 212224100054
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
